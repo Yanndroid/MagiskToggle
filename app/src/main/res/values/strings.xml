@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagiskToggle</string>
+    <string name="magisk">Magisk</string>
+    <string name="package_name">package name</string>
+    <string name="visible">visible</string>
+    <string name="hidden">hidden</string>
+</resources>
